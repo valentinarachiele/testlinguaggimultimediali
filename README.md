@@ -1,2 +1,2 @@
 # testlinguaggimultimediali
-Test in classe per capire come funziona Github.
+Test in classe. Oggi è una bella giornata di sole.
